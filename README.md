@@ -18,7 +18,6 @@ Inspired by my SealLaw and LawLens legal tech tools.
 - `verifier_top.sv` — Extracts fields from input and connects modules
 - `testbench.sv` — Tests valid and invalid signatures
 
-## 💻 Simulate it on [EDA Playground](https://www.edaplayground.com/)
+## 💻 Simulate it on [EDA Playground](https://edaplayground.com/x/8aqr)
 
-## 📷 Sample Waveforms
-(Add screenshots here later)
+
