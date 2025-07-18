@@ -14,9 +14,9 @@ Inspired by my SealLaw and LawLens legal tech tools.
 
 ## 🔧 Modules
 
-- `pattern_matcher.v` — Compares decoded fields with authorized values
-- `verifier_top.v` — Extracts fields from input and connects modules
-- `testbench.v` — Tests valid and invalid signatures
+- `pattern_matcher.sv` — Compares decoded fields with authorized values
+- `verifier_top.sv` — Extracts fields from input and connects modules
+- `testbench.sv` — Tests valid and invalid signatures
 
 ## 💻 Simulate it on [EDA Playground](https://www.edaplayground.com/)
 
