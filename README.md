@@ -9,12 +9,11 @@
 ## 🔍 Features
 
 - Keyword-based legal insight generator
-- Offline and free — no API or backend required
 - Covers a wide range of cybercrime-related scenarios
 - Direct links to India's official cybercrime portal
 - Clean, mobile-friendly UI
 
 ---
 
-## 📂 Project Structure
+
 
